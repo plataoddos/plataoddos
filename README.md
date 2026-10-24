@@ -32,11 +32,16 @@ Je développe des bots Discord en JavaScript, de la conception des commandes sla
       <p><a href="https://github.com/plataoddos/smash-or-pass">Voir le dépôt →</a></p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><br><br>🚧</p>
-      <h3 align="center">SOON...</h3>
-      <p><strong>Catégorie :</strong> Bot Discord</p>
-      <p>Un nouveau projet arrive bientôt. Les détails seront ajoutés ici dès qu’il sera prêt à être présenté.</p>
-      <p><strong>Technologies :</strong><br>À venir</p>
+      <p align="center">
+        <a href="https://github.com/plataoddos/honeypot">
+          <img src="https://raw.githubusercontent.com/plataoddos/honeypot/main/logo.png" alt="Logo HoneyPot" width="110">
+        </a>
+      </p>
+      <h3 align="center"><a href="https://github.com/plataoddos/honeypot">HoneyPot</a></h3>
+      <p><strong>Catégorie :</strong> Bot Discord anti-raid</p>
+      <p>Bot anti-raid avec un salon honeypot en Components V2. Il avertit le membre en DM avant de tenter le bannissement et publie un embed de modération dans le salon de logs.</p>
+      <p><strong>Technologies :</strong><br>JavaScript · Node.js 24+ · discord.js 14 · Components V2</p>
+      <p><a href="https://github.com/plataoddos/honeypot">Voir le dépôt →</a></p>
     </td>
   </tr>
 </table>
