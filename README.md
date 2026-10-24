@@ -43,8 +43,6 @@ Je développe des bots Discord en JavaScript, de la conception des commandes sla
 
 ## Statistiques GitHub
 
-Les cartes ci-dessous affichent les statistiques **publiques** du compte et de ses dépôts : commits, étoiles, pull requests, issues et langages les plus présents.
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=plataoddos&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=false&amp;rank_icon=github&amp;theme=github_dark&amp;hide_border=true" alt="Statistiques GitHub publiques de Σmnosia">
@@ -58,8 +56,6 @@ Les cartes ci-dessous affichent les statistiques **publiques** du compte et de s
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fplataoddos&amp;query=%24.public_repos&amp;label=d%C3%A9p%C3%B4ts%20publics&amp;color=5865F2" alt="Nombre de dépôts publics">
   <img src="https://img.shields.io/github/followers/plataoddos?label=abonn%C3%A9s&amp;style=social" alt="Abonnés GitHub">
 </p>
-
-<p align="center"><sub>Les statistiques sont publiques. Le graphique des langages mesure le code dans tes dépôts publics personnels, hors forks ; il ne représente pas un niveau de maîtrise.</sub></p>
 
 ## Technologies
 
