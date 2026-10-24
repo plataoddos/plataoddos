@@ -17,11 +17,29 @@ Je développe des bots Discord en JavaScript, de la conception des commandes sla
 
 ## Projets
 
-Chaque projet est présenté dans le tableau avec sa catégorie. Une nouvelle ligne pourra être ajoutée pour chaque prochain bot.
-
-| Catégorie | Projet | Description | Technologies | Dépôt |
-| --- | --- | --- | --- | --- |
-| Bot Discord | <a href="https://github.com/plataoddos/smash-or-pass"><img src="https://raw.githubusercontent.com/plataoddos/smash-or-pass/main/logo.png" alt="Logo Smash Or Pass" width="72"><br><strong>Smash Or Pass</strong></a> | Bot communautaire pour envoyer une photo ou une vidéo, la faire modérer, choisir l’anonymat et permettre aux membres de voter. Les validations sont consignées dans un salon privé du staff. | JavaScript · Node.js 24+ · discord.js 14 · Components V2 · dotenv | [Voir le code](https://github.com/plataoddos/smash-or-pass) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/plataoddos/smash-or-pass">
+          <img src="https://raw.githubusercontent.com/plataoddos/smash-or-pass/main/logo.png" alt="Logo Smash Or Pass" width="110">
+        </a>
+      </p>
+      <h3 align="center"><a href="https://github.com/plataoddos/smash-or-pass">Smash Or Pass</a></h3>
+      <p><strong>Catégorie :</strong> Bot Discord</p>
+      <p>Bot communautaire pour envoyer une photo ou une vidéo, la faire modérer, choisir l’anonymat et permettre aux membres de voter. Les validations sont consignées dans un salon privé du staff.</p>
+      <p><strong>Technologies :</strong><br>JavaScript · Node.js 24+ · discord.js 14 · Components V2 · dotenv</p>
+      <p><a href="https://github.com/plataoddos/smash-or-pass">Voir le dépôt →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><br><br>🚧</p>
+      <h3 align="center">SOON...</h3>
+      <p><strong>Catégorie :</strong> Bot Discord</p>
+      <p>Un nouveau projet arrive bientôt. Les détails seront ajoutés ici dès qu’il sera prêt à être présenté.</p>
+      <p><strong>Technologies :</strong><br>À venir</p>
+    </td>
+  </tr>
+</table>
 
 ## Technologies
 
