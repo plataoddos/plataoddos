@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,50:0b251e,100:00ff9c&height=180&section=header&text=120μ&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%2F%20PENTEST%20%2F%20LEARN%20AND%20SECURE&descSize=14&descAlignY=58" alt="Bannière Σyn0ps — cybersécurité et pentest">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,50:0b251e,100:00ff9c&height=180&section=header&text=Σyn0ps&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%2F%20PENTEST%20%2F%20LEARN%20AND%20SECURE&descSize=14&descAlignY=58" alt="Bannière Σyn0ps — cybersécurité et pentest">
 
 # `Σyn0ps`
 
