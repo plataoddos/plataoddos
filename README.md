@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,50:0b251e,100:00ff9c&height=180&section=header&text=120μ&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%2F%20PENTEST%20%2F%20LEARN%20AND%20SECURE&descSize=14&descAlignY=58" alt="Bannière 120μ — cybersécurité et pentest">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,50:0b251e,100:00ff9c&height=180&section=header&text=120μ&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%2F%20PENTEST%20%2F%20LEARN%20AND%20SECURE&descSize=14&descAlignY=58" alt="Bannière Σyn0ps — cybersécurité et pentest">
 
-# `120μ`
+# `Σyn0ps`
 
 ### Passionné de cybersécurité · Pentest
 
@@ -16,7 +16,7 @@ Je me spécialise en **tests d’intrusion** et j’apprends en construisant des
   <img src="https://img.shields.io/badge/BUILDING-Cyber%20Projects-a855f7?style=for-the-badge&labelColor=0d1117" alt="Projets cyber">
 </p>
 
-`user: Σmnosia` &nbsp; `age: 17` &nbsp; `mode: ethical security` &nbsp; `status: learning`
+`user: Σyn0ps` &nbsp; `age: 17` &nbsp; `mode: ethical security` &nbsp; `status: learning`
 
 </div>
 
